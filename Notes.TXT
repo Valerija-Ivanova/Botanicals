@@ -1,0 +1,25 @@
+My work: Shop Page + Error Page.
+
+Week 1: HTML for one.
+Week 2: Styling.
+
+Shop should jump to plant care's relevant subheadings.
+
+Javascript ideas:
+Shopping cart - 3hr tutorial to follow, found, understood.
+Arrow animation briefly plays when something added to cart.
+Dropdown menus with jump to div ids for content.
+Subscription letter pop-up with link to registration page?
+Thanks for shopping/registration pop-up to indicate successful input.
+Mouseover items in shop show floating summaries of each item. Follow mouse?
+Error in loading an element takes user to error page, which asks them to refresh. Back to previous page?
+
+DISCUSSION FOR WEEK 10:
+
+- Rather than error page, I'd like to make a sources page.
+- Choose plants and write content for them to be added to the plant care page.
+- Might not get cart to work, but will try.
+- I've used flexbox for my content. I can merge our css sheets?
+- Countdown for discount on the shop page using javascript.
+- Agree on exact colours. (Menus, borders, content, background)
+

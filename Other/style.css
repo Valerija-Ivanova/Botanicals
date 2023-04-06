@@ -1,0 +1,45 @@
+body {
+	font-family: Helvetica;
+	font-size: 120%;
+}
+
+img {
+	max-width: 100%;
+}
+
+#container{
+	display: flex;
+	background: yellow;
+	width: 100%;
+	flex-wrap: no-wrap;
+}
+
+#links {
+	display: flex;
+	background: cyan;
+	width: 20%;
+}
+
+#shop {
+	display: flex;
+	background: gray;
+	width: 80%;
+}
+
+.shopTile {
+	display: flex;
+	background: green;
+	width: 25%;
+	flex-flow: column wrap;
+}
+
+.image {
+	display: flex;
+	background: white;
+	max-width: auto;
+}
+
+.text {
+	display: flex;
+	background: pink;
+}
